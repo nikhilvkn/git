@@ -1,2 +1,3 @@
-# git
-git documents
+# git wiki
+
+* [unstage](https://github.com/nikhilvkn/git/wiki/Unstage-commit)
